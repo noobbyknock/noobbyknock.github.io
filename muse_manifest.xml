@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="noobbyknock.github.io" resolutions="1x" timestamp="1579268317697">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="noobbyknock.github.io" resolutions="1x" timestamp="1579269053690">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4069557673" ref="index"/>
+    <file name="index.css" crc="4030443364" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -80,5 +80,5 @@
     <file name="u176-r.png" crc="330382271" ref="index"/>
     <file name="u176-a.png" crc="330382271" ref="index"/>
   </folder>
-  <file name="index.html" crc="4219411045" seo="true" mt="1579267410562" redirect="true"/>
+  <file name="index.html" crc="534795832" seo="true" mt="1579269014476" redirect="true"/>
 </manifest>
