@@ -1,0 +1,84 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="noobbyknock.github.io" resolutions="1x" timestamp="1579268317697">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4069557673" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="172512987" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="dsc_0057-crop-u1663.jpg" crc="315617282" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="img_0641-crop-u1921.jpg" crc="3811657694" ref="index"/>
+    <file name="fnl_02214-crop-u1955.jpg" crc="4078734838" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u2262-6.png" crc="3782383304" ref="index"/>
+    <file name="asdad.jpg" crc="4016491552" seo="true" ref="index"/>
+    <file name="fnl_0244.jpg" crc="4230145505" seo="true" ref="index"/>
+    <file name="fnl_02214240x360.jpg" crc="246423866" seo="true" ref="index"/>
+    <file name="dsc_0208.jpg" crc="3828555889" seo="true" ref="index"/>
+    <file name="dsc_0210.jpg" crc="3852914538" seo="true" ref="index"/>
+    <file name="dsc_0221.jpg" crc="3777244726" seo="true" ref="index"/>
+    <file name="asdad-crop-u2005.jpg" crc="111045333" ref="index"/>
+    <file name="fnl_0244-crop-u2031.jpg" crc="4187898935" ref="index"/>
+    <file name="fnl_02214-crop-u2063.jpg" crc="477630043" ref="index"/>
+    <file name="dsc_0208-crop-u2124.jpg" crc="317685966" ref="index"/>
+    <file name="dsc_0210-crop-u2150.jpg" crc="108613966" ref="index"/>
+    <file name="dsc_0221-crop-u2244.jpg" crc="3919393866" ref="index"/>
+    <file name="img_e0641.jpg" crc="4073240196" seo="true" ref="index"/>
+    <file name="20181113_190614_0126.jpg" crc="356111280" seo="true" ref="index"/>
+    <file name="img_0630.jpg" crc="4259601013" seo="true" ref="index"/>
+    <file name="dsc_0121.jpg" crc="291212435" seo="true" ref="index"/>
+    <file name="dsc_0057480x320.jpg" crc="3817692693" seo="true" ref="index"/>
+    <file name="dsc_0084.jpg" crc="4175025774" seo="true" ref="index"/>
+    <file name="img_e0641-crop-u943.jpg" crc="3935340719" ref="index"/>
+    <file name="20181113_190614_0126-crop-u1205.jpg" crc="4022583869" ref="index"/>
+    <file name="img_0630-crop-u1231.jpg" crc="490037471" ref="index"/>
+    <file name="dsc_0121-crop-u2282.jpg" crc="397742281" ref="index"/>
+    <file name="dsc_0057-crop-u1305.jpg" crc="4065065156" ref="index"/>
+    <file name="dsc_0084-crop-u1331.jpg" crc="4122605259" ref="index"/>
+    <file name="dsc_0752.jpg" crc="171752910" seo="true" ref="index"/>
+    <file name="dsc_0774.jpg" crc="4238797188" seo="true" ref="index"/>
+    <file name="dsc_0758.jpg" crc="342125965" seo="true" ref="index"/>
+    <file name="dsc_0565.jpg" crc="3857871282" seo="true" ref="index"/>
+    <file name="dsc_0617_1.jpg" crc="337646966" seo="true" ref="index"/>
+    <file name="dsc_0728.jpg" crc="252770680" seo="true" ref="index"/>
+    <file name="dsc_0695.jpg" crc="330117474" seo="true" ref="index"/>
+    <file name="dsc_0818.jpg" crc="4260220739" seo="true" ref="index"/>
+    <file name="dsc_0716.jpg" crc="278472173" seo="true" ref="index"/>
+    <file name="dsc_0855.jpg" crc="3882939419" seo="true" ref="index"/>
+    <file name="dsc_0861.jpg" crc="4004286280" seo="true" ref="index"/>
+    <file name="dsc_0711.jpg" crc="3996860753" seo="true" ref="index"/>
+    <file name="dsc_0752-crop-u446.jpg" crc="62578355" ref="index"/>
+    <file name="dsc_0774-crop-u498.jpg" crc="3809042459" ref="index"/>
+    <file name="dsc_0758-crop-u472.jpg" crc="4074767344" ref="index"/>
+    <file name="dsc_0565-crop-u638.jpg" crc="4055841501" ref="index"/>
+    <file name="dsc_0617_1-crop-u664.jpg" crc="494267648" ref="index"/>
+    <file name="dsc_0728-crop-u742.jpg" crc="379541497" ref="index"/>
+    <file name="dsc_0695-crop-u690.jpg" crc="369960109" ref="index"/>
+    <file name="dsc_0818-crop-u880.jpg" crc="4026821413" ref="index"/>
+    <file name="dsc_0716-crop-u716.jpg" crc="4142417122" ref="index"/>
+    <file name="dsc_0855-crop-u524.jpg" crc="4038489753" ref="index"/>
+    <file name="dsc_0861-crop-u550.jpg" crc="4069939973" ref="index"/>
+    <file name="dsc_0711-crop-u266.jpg" crc="4162970213" ref="index"/>
+    <file name="u180.png" crc="378042275" ref="index"/>
+    <file name="u180-r.png" crc="4119703325" ref="index"/>
+    <file name="u180-a.png" crc="4119703325" ref="index"/>
+    <file name="u178.png" crc="266614690" ref="index"/>
+    <file name="u178-r.png" crc="346069614" ref="index"/>
+    <file name="u178-a.png" crc="346069614" ref="index"/>
+    <file name="u176.png" crc="425880203" ref="index"/>
+    <file name="u176-r.png" crc="330382271" ref="index"/>
+    <file name="u176-a.png" crc="330382271" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4219411045" seo="true" mt="1579267410562" redirect="true"/>
+</manifest>
